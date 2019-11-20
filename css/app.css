@@ -1,0 +1,29 @@
+header {
+    background-color: black;
+    color: white;
+
+}
+
+main{
+background-color: rgb(236, 239, 245);}
+
+section{
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+#img{
+        width: 10%;
+        height: auto;
+        float: left;
+}
+
+
+footer{
+background-color: darkgrey;
+color: black;
+z-index: auto;
+}
+
